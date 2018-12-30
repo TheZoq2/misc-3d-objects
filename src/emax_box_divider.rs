@@ -1,5 +1,5 @@
 
-use scad_generator::*;
+use scad::*;
 
 
 pub fn divider() -> ScadObject

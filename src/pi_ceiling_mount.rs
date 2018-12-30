@@ -1,4 +1,4 @@
-use scad_generator::*;
+use scad::*;
 
 pub fn mount() -> ScadObject {
     let x_size = 64.;
